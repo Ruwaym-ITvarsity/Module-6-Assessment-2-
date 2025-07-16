@@ -74,7 +74,7 @@ ul{
 /*======================= HEADER STYLE ========================*/
 .video{
     width: 100%;
-    margin: 3% 0;
+    margin: 5% 0;
 }
 #banner{
     width: 100%;
@@ -181,7 +181,7 @@ ul{
     float: right;
     margin-left: 70%;
     position: relative;
-    bottom: 402px;
+    bottom: 404px;
     right:40px;
 }
 .footer-bottom ul{
