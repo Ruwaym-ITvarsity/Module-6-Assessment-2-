@@ -514,7 +514,7 @@ h2.controls{
     height: 400px;
     position: relative;
     top: 200px;
-    left: 16%;
+    left: 20%;
     border: #00bfff solid 4px;
     outline: #d4af37 solid 3px;
 }
@@ -614,7 +614,7 @@ h2.controls{
     margin-left: 25%;
     }
     #msg-rec{
-    left: 25%;
+    left: 20%;
     }
     img.car-image{
         margin-left: 4px;
